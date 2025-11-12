@@ -1,6 +1,3 @@
-<img width="713" height="685" alt="Screenshot 2025-11-12 120019" src="https://github.com/user-attachments/assets/59a30e23-43f7-4e9f-a74a-d83bbfd5527a" />
-<img width="1058" height="641" alt="Screenshot 2025-11-12 115959" src="https://github.com/user-attachments/assets/51a00307-d10a-4599-8ef7-0e02f4eb8975" />
-<img width="1166" height="705" alt="Screenshot 2025-11-12 115935" src="https://github.com/user-attachments/assets/09aed6bd-da9c-4c3f-9449-d7ddc1eb25c3" />
 # Sales_Performance_Dashboard
 This project analyzes a company’s sales data to understand performance across different regions, products, and months. Using Excel and Power BI, the data was cleaned, summarized, and visualized to find trends, top-performing products, and profit patterns. The dashboard helps make better business decisions based on data insights. 
 # 📊 Sales Performance Analysis Dashboard
@@ -62,7 +59,9 @@ The dashboard provides an interactive summary of total sales, profit, and quanti
 
 ## 📊 Dashboard Preview
 *(Add your screenshot here once created)*  
-`![Sales Dashboard Screenshot](dashboard_screenshot.png)`
+<img width="713" height="685" alt="Screenshot 2025-11-12 120019" src="https://github.com/user-attachments/assets/59a30e23-43f7-4e9f-a74a-d83bbfd5527a" />
+<img width="1058" height="641" alt="Screenshot 2025-11-12 115959" src="https://github.com/user-attachments/assets/51a00307-d10a-4599-8ef7-0e02f4eb8975" />
+<img width="1166" height="705" alt="Screenshot 2025-11-12 115935" src="https://github.com/user-attachments/assets/09aed6bd-da9c-4c3f-9449-d7ddc1eb25c3" />
 
 ---
 
